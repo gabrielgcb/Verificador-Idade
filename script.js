@@ -40,7 +40,7 @@ function verificar() {
         }
 
         resultado.style.textAlign = 'center';
-        resultado.innerHTML = `Detectamos ${sexo} com ${idade} anos de idade!`;
+        resultado.innerHTML = `<strong>Detectamos ${sexo} com ${idade} anos de idade!</strong>`;
         resultado.appendChild(img);
         
     }
