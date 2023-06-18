@@ -1,6 +1,7 @@
 # Verificador de Idade
  
-Site desenvolvido para que, a partir do ano de nascimento, retorne a idade de uma pessoa.
+Site desenvolvido para que, a partir do ano de nascimento, retorne a idade de uma pessoa. <br>
+Para acessá-lo clique no link a seguir: https://gabrielgcb.github.io/Verificador-Idade/
 
 Tecnologias utilizadas: <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50">
