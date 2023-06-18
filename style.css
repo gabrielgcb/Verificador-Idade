@@ -33,6 +33,14 @@ div {
     text-align: justify;
 }
 
+div input#botao {
+    font-size: 1em;
+}
+
+div#res {
+    font-size: 0.90em;
+}
+
 div > img {
     border-radius: 50%;
 }
